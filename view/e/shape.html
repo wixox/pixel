@@ -1,0 +1,67 @@
+<div class="option-icon"><img src="/img/tool/thick/shape.svg"></div>
+
+<div>
+    <label class="tab-10">§mode§:</label>
+    <div class="switch-field tab-5">
+        <input type="radio" id="shape-mode-design" name="shape-mode" value="design" checked/><label for="shape-mode-design" tooltip="§viewShapeModeDesign§" flow="down">§design§</label>
+        <input type="radio" id="shape-mode-draw" name="shape-mode" value="draw" /><label for="shape-mode-draw" tooltip="§viewShapeModeDraw§" flow="down">§draw§</label>
+    </div>
+</div>
+
+<div id="shape-draw-no-layer">
+    <div class="tab-20">§viewShapeNoLayer§</div>
+</div>
+
+<div id="shape-draw-settings">
+    <label class="tab-20">§type§:</label>            
+    <div class="switch-icon-field tab-5">
+        <input type="radio" id="shape-draw-type-rectangle" name="shape-draw-type" value="rectangle" checked /><label for="shape-draw-type-rectangle" tooltip="§rectangle§" flow="down"><img src="/img/icon/shape-rectangle.svg" /></label>
+        <input type="radio" id="shape-draw-type-rounded" name="shape-draw-type" value="rounded" /><label for="shape-draw-type-rounded" tooltip="§roundedRect§" flow="down"><img src="/img/icon/shape-rounded.svg" /></label>
+        <input type="radio" id="shape-draw-type-ellipse" name="shape-draw-type" value="ellipse" /><label for="shape-draw-type-ellipse" tooltip="§circle§" flow="down"><img src="/img/icon/shape-ellipse.svg" /></label>
+        <input type="radio" id="shape-draw-type-triangle" name="shape-draw-type" value="triangle" /><label for="shape-draw-type-triangle" tooltip="§triangle§" flow="down"><img src="/img/icon/shape-triangle.svg" /></label>
+        <input type="radio" id="shape-draw-type-star" name="shape-draw-type" value="star" /><label for="shape-draw-type-star" tooltip="§star§" flow="down"><img src="/img/icon/shape-star.svg" /></label>
+        <input type="radio" id="shape-draw-type-heart" name="shape-draw-type" value="heart" /><label for="shape-draw-type-heart" tooltip="§heart§" flow="down"><img src="/img/icon/shape-heart.svg" /></label>
+        <input type="radio" id="shape-draw-type-line" name="shape-draw-type" value="line" /><label for="shape-draw-type-line" tooltip="§line§" flow="down"><img src="/img/icon/shape-line.svg" /></label>
+        <input type="radio" id="shape-draw-type-bezier" name="shape-draw-type" value="bezier" /><label for="shape-draw-type-bezier" tooltip="§bezier§" flow="down"><img src="/img/icon/shape-bezier.svg" /></label>
+    </div>
+
+    <div id="shape-draw-opacity" class="tab-20"></div>
+    <div id="shape-draw-size" class="tab-20"></div>
+    <div id="shape-draw-radii" style="display: none;" class="tab-20"></div>
+
+    <div id="shape-draw-fill-settings" class="tab-25">
+        <input type="checkbox" id="shape-draw-fill" checked />
+        <label class="switch" for="shape-draw-fill"><span></span>§fill§</label>
+    </div>
+
+</div>
+
+<div id="shape-design-settings">
+    <label class="tab-20">§type§:</label>
+    <div class="switch-icon-field tab-5">
+        <input type="radio" id="shape-design-type-rectangle" name="shape-design-type" value="rectangle" checked /><label for="shape-design-type-rectangle" id="shape-design-type-rectangle-label" tooltip="§rectangle§" flow="down"><img src="/img/icon/shape-rectangle.svg" /></label>
+        <input type="radio" id="shape-design-type-rounded" name="shape-design-type" value="rounded" /><label for="shape-design-type-rounded" id="shape-design-type-rounded-label" tooltip="§roundedRect§" flow="down"><img src="/img/icon/shape-rounded.svg" /></label>
+        <input type="radio" id="shape-design-type-ellipse" name="shape-design-type" value="ellipse" /><label for="shape-design-type-ellipse" id="shape-design-type-ellipse-label" tooltip="§circle§" flow="down"><img src="/img/icon/shape-ellipse.svg" /></label>
+        <input type="radio" id="shape-design-type-line" name="shape-design-type" value="line" /><label for="shape-design-type-line" id="shape-design-type-line-label" tooltip="§line§" flow="down"><img src="/img/icon/shape-line.svg" /></label>
+        <input type="radio" id="shape-design-type-path" name="shape-design-type" value="path" /><label for="shape-design-type-path" id="shape-design-type-path-label" tooltip="§custom§" flow="down"><img src="/img/icon/shape-path.svg" /></label>
+    </div>
+
+    <div id="shape-design-path">
+        <label class="tab-15">§shape§:</label>
+        <div id="shape-design-shape" class="tab-5"></div>
+    </div>
+
+    <div id="shape-design-fill-settings">
+        <label class="tab-20">§fill§:</label>
+        <div id="shape-design-fill" class="tab-5"></div>
+    </div>
+
+    <div id="shape-design-outline-size" class="tab-20"></div>
+    <div id="shape-design-outline-color" class="tab-10"></div>
+    <div id="shape-design-outline-radii" style="display: none;" class="tab-20"></div>
+    
+    <ul id="shape-design-action" class="icon-button-set tab-20">
+        <li id="shape-design-duplicate" tooltip="§duplicate§" flow="down"><img src="/img/icon/copy.svg"/></li>
+        <li id="shape-design-delete"  tooltip="§delete§" flow="down"><img src="/img/icon/delete.svg"></li>
+    </ul>
+</div>

@@ -1,0 +1,73 @@
+<div class="option-icon"><img src="/img/tool/thick/cutout.svg"></div>
+
+<div id="cutout-no-layer" style="display: none">
+    <div class="tab-10">§viewCutoutNoLayer§</div>
+</div>
+
+<div id="cutout-sub-tools">
+
+    <a class="button outline tab-10" id="cutout-auto">§aiAuto§</a>
+
+    <label class="tab-20">§tool§:</label>
+    <div class="switch-icon-field tab-5">
+        <input type="radio" id="cutout-type-shape" name="cutout-type" value="shape" checked/><label for="cutout-type-shape" tooltip="§viewCutoutShape§" flow="down"><img src="/img/tool/thick/shape.svg" /></label>
+        <input type="radio" id="cutout-type-magic" name="cutout-type" value="magic" /><label for="cutout-type-magic" tooltip="§viewCutoutMagic§" flow="down"><img src="/img/tool/thick/wand.svg"/></label>
+        <input type="radio" id="cutout-type-draw" name="cutout-type" value="draw" /><label for="cutout-type-draw" tooltip="§viewCutoutDraw§" flow="down"><img src="/img/tool/thick/draw.svg"/></label>
+        <input type="radio" id="cutout-type-lasso" name="cutout-type" value="lasso" /><label for="cutout-type-lasso" tooltip="§viewCutoutLasso§" flow="down"><img src="/img/tool/thick/lasso.svg"/></label>
+        <input type="radio" id="cutout-type-gradient" name="cutout-type" value="gradient" /><label for="cutout-type-gradient" tooltip="§viewCutoutGradient§" flow="down"><img src="/img/tool/thick/gradient.svg"/></label>
+    </div>
+
+    <label class="tab-20">§mode§:</label>
+    <div class="switch-icon-field tab-5">
+        <input type="radio" id="cutout-mode-keep" name="cutout-mode" value="keep" checked/><label for="cutout-mode-keep" tooltip="§addToCutout§" flow="down"><img src="/img/icon/selection-add.svg"/></label>
+        <input type="radio" id="cutout-mode-remove" name="cutout-mode" value="remove" /><label for="cutout-mode-remove" tooltip="§removeFromCutout§" flow="down"><img src="/img/icon/selection-remove.svg"/></label>
+    </div>
+
+    <div id="cutout-magic-settings" class="tab-20">
+
+        <div id="cutout-magic-tolerance" class="range-box"></div>
+        <div id="cutout-magic-feather" class="range-box tab-20"></div>
+
+        <input type="checkbox" id="cutout-magic-contiguous" checked>
+        <label class="tab-20 switch" for="cutout-magic-contiguous"><span></span>§contiguous§</label>
+    </div>
+
+    <div id="cutout-draw-settings" class="tab-20" style="display: none;">
+        <label>§brush§:</label>
+        <div id="cutout-draw-brush"></div>
+        <div id="cutout-draw-opacity" class="range-box tab-20"></div>
+    </div>
+
+    <div id="cutout-lasso-settings" class="tab-20" style="display: none;">
+        <div id="cutout-lasso-feather" class="range-box"></div>
+    </div>
+
+    <div id="cutout-shape-settings" class="tab-20" style="display: none;">
+
+        <label>§shape§:</label>
+        <div class="switch-icon-field tab-5">
+            <input type="radio" id="cutout-shape-type-rectangle" name="cutout-shape-type" value="rectangle" checked /><label for="cutout-shape-type-rectangle" tooltip="§rectangle§" flow="down"><img src="/img/icon/shape-rectangle.svg" /></label>
+            <input type="radio" id="cutout-shape-type-ellipse" name="cutout-shape-type" value="ellipse" /><label for="cutout-shape-type-ellipse" tooltip="§circle§" flow="down"><img src="/img/icon/shape-ellipse.svg" /></label>
+            <input type="radio" id="cutout-shape-type-line" name="cutout-shape-type" value="line" /><label for="cutout-shape-type-line" tooltip="§line§" flow="down"><img src="/img/icon/shape-line.svg" /></label>
+        </div>
+
+        <div id="cutout-shape-feather" class="range-box tab-20"></div>
+    </div>
+
+    <div id="cutout-gradient-settings" class="tab-20" style="display: none;">
+        <label>§type§:</label>
+        <div class="switch-field tab-5">
+            <input type="radio" id="cutout-gradient-type-linear" name="cutout-gradient-type" value="linear" checked/><label for="cutout-gradient-type-linear">§linear§</label>
+            <input type="radio" id="cutout-gradient-type-radial" name="cutout-gradient-type" value="radial"/><label for="cutout-gradient-type-radial">§radial§</label>
+        </div>
+        <div class="tab-20" id="cutout-gradient-grad"></div>
+    </div>
+
+    <input type="checkbox" id="cutout-show-ghost">
+    <label class="tab-25 switch" for="cutout-show-ghost"><span></span>§hintRemoved§</label>
+    
+    <div class="tab-20">
+        <div id="cutout-tool-more" class="icon-drop"><img src="/img/icon/three-dot.svg"/> </div>    
+    </div>
+
+</div>

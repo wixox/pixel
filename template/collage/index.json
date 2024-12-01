@@ -1,0 +1,16 @@
+{
+    "templates":[
+        { "id":"917f2dbb-0d63-46fd-9060-01a76b1a4554", "title":"Square single collage", "keywords":"Collage simple square white frame", "ratio":"1:1", "premium":false },
+        { "id":"5afdbd21-37e6-4319-8e50-2e3b837263d2", "title":"Square four collage", "keywords":"Collage simple four square white frame", "ratio":"1:1", "premium":false },
+        { "id":"8c3e7c38-5a8f-47bb-ba3e-befb689399a9", "title":"Square twin collage", "keywords":"Collage twin two square white frame", "ratio":"1:1", "premium":false },
+        { "id":"7254d694-cf6b-4fe4-9e64-33bf40cf804a", "title":"Square twin collage", "keywords":"Collage twin two square white frame", "ratio":"1:1", "premium":false },
+        { "id":"9ea614c5-734b-49e6-9665-778f6be735f0", "title":"Square two plus two collage", "keywords":"Collage twin two plus two square white frame", "ratio":"1:1", "premium":false },
+        { "id":"8c3e7c38-5a8f-47bb-ba3e-befb689399b9", "title":"Square four collage", "keywords":"Collage four square white frame", "ratio":"1:1", "premium":false },
+        { "id":"a5433e94-3c7a-4140-84a5-c4b64dd4a01f", "title":"Square nine collage", "keywords":"Collage nine 3 by 3 square white frame", "ratio":"1:1", "premium":false },
+        { "id":"7254d694-cf6b-4fe4-9e64-33bf40cf804d", "title":"Square five collage", "keywords":"Collage five square white frame", "ratio":"1:1", "premium":false },
+        { "id":"225deb22-6639-4844-826a-6f3dce4345ab", "title":"Story twin collage", "keywords":"Collage twin story white frame", "ratio":"4:5", "premium":false },
+        { "id":"971011b2-f8b8-4521-8d09-05d1f0b3278a", "title":"Story twin collage", "keywords":"Collage twin story white frame", "ratio":"9:16", "premium":false },
+        { "id":"84002e8d-efb4-4b7a-bb76-a2da14b69b24", "title":"photo three collage", "keywords":"Collage three white frame", "ratio":"4:3", "premium":false }
+        
+    ]
+}

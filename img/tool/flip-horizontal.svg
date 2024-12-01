@@ -1,0 +1,20 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <g fill="#fff">
+  <path d="m8.4667 1.0583-3.175 3.4743 3.175 3.4049z" stroke-width=".26458"/>
+  <path d="m3.175 4.4291-3.175-3.3708v6.8792zm-2.6458-1.9262 1.7992 1.9262-1.7992 2.0638z" stroke-width=".26458"/>
+  <g stroke-width=".26458">
+   <path d="m4.4979 7.1438h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 6.0854h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 5.0271h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 3.9688h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 2.9104h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 1.8521h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.4979 8.2021h-0.52917v-0.52917h0.52917z"/>
+   <path d="m4.5426 0.79375h-0.52917v-0.52917h0.52917z"/>
+  </g>
+ </g>
+</svg>

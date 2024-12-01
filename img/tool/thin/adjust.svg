@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <path d="m30.8 16a14.8 14.8 0 0 1-14.8 14.8 14.8 14.8 0 0 1-14.8-14.8 14.8 14.8 0 0 1 14.8-14.8 14.8 14.8 0 0 1 14.8 14.8" fill="none" stroke="#fff" stroke-dashoffset="7.4" stroke-linejoin="round" stroke-width="2.5" style="paint-order:normal"/>
+ <path d="m2 10.8h14v2.5h-14z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <ellipse cx="19" cy="12" rx="3" ry="3" fill="none" stroke="#fff" stroke-dashoffset="6.81" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:markers stroke fill"/>
+ <path d="m21.9 10.8h8v2.5h-8z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <path d="m29.9 19.7h-14v2.5h14z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <ellipse transform="scale(-1,1)" cx="-12.9" cy="21" rx="3" ry="3" fill="none" stroke="#fff" stroke-dashoffset="6.81" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:markers stroke fill"/>
+ <path d="m10 19.7h-8v2.5h8z" fill="#fff" style="paint-order:markers stroke fill"/>
+</svg>

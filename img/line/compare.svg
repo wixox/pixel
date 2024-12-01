@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="compare.svg"
+   inkscape:version="1.0beta2 (654b821, 2020-03-27)"
+   id="svg1032"
+   version="1.1"
+   viewBox="0 0 8.4666659 8.4666659"
+   height="32"
+   width="32">
+  <defs
+     id="defs1026">
+    <style
+       id="style6123"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style6125"
+       type="text/css">.fil0 {fill:black}</style>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="86"
+     inkscape:window-x="123"
+     inkscape:window-height="1121"
+     inkscape:window-width="1600"
+     units="px"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="9.8581962"
+     inkscape:cx="15.877016"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1029">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="stroke-width:8.9802"
+       transform="matrix(0.02946297,0,0,0.02946297,-0.00265167,-60.320725)"
+       id="g1771">
+      <g
+         style="stroke-width:8.9802"
+         id="g1752">
+        <path
+           style="stroke-width:8.9802"
+           inkscape:connector-curvature="0"
+           d="m 256,43.5 c -6.6,0 -12,5.4 -12,12 v 251 l -45.5,-41.1 c -4.9,-4.4 -12.5,-4.1 -16.9,0.9 -4.4,4.9 -4.1,12.5 0.9,16.9 l 65.5,59.2 c 2.3,2.1 5.2,3.1 8,3.1 2.9,0 5.8,-1 8,-3.1 l 65.5,-59.2 c 4.9,-4.4 5.3,-12 0.9,-16.9 -4.4,-4.9 -12,-5.3 -16.9,-0.9 L 268,306.5 v -251 c 0,-6.6 -5.4,-12 -12,-12 z"
+           id="path1748" />
+        <path
+           style="stroke-width:8.9802"
+           inkscape:connector-curvature="0"
+           d="m 113.3,468 h 285.5 c 27.5,0 50.3,-21.9 50.3,-49.4 V 181.9 c 0,-27.5 -22.8,-49.9 -50.3,-49.9 h -63.7 c -6.6,0 -12,5.4 -12,12 0,6.6 5.4,12 12,12 h 63.7 c 14.3,0 26.3,11.6 26.3,25.9 v 236.7 c 0,14.3 -12,25.4 -26.3,25.4 H 113.3 C 99,444 87,432.9 87,418.6 V 181.9 C 87,167.6 99,156 113.3,156 H 177 c 6.6,0 12,-5.4 12,-12 0,-6.6 -5.4,-12 -12,-12 H 113.3 C 85.8,132 63,154.4 63,181.9 v 236.7 c 0,27.5 22.8,49.4 50.3,49.4 z"
+           id="path1750" />
+      </g>
+      <text
+         style="stroke-width:8.9802"
+         x="0"
+         y="527"
+         fill="#000000"
+         font-size="5px"
+         font-weight="bold"
+         font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+         id="text1754">Created by prakruti</text>
+      <text
+         style="stroke-width:8.9802"
+         x="0"
+         y="532"
+         fill="#000000"
+         font-size="5px"
+         font-weight="bold"
+         font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+         id="text1756">from the Noun Project</text>
+    </g>
+    <path
+       id="rect6191"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80542;paint-order:markers stroke fill;stop-color:#000000"
+       d="m 1.7747104,2.1166667 h 1.664873 V 6.35 H 1.7747104 C 1.2588549,6.35 1.0583333,6.1507746 1.0583333,5.7373114 v -3.041365 c 0,-0.4134631 0.2005211,-0.5792797 0.7163771,-0.5792797 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssss" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.2333329,0.52916667 V 7.9375"
+       id="path6194"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80542;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect6196"
+       width="7.8052087"
+       height="5.6885419"
+       x="0.33072901"
+       y="1.3890623"
+       rx="1.1942971"
+       ry="0.31998047" />
+  </g>
+</svg>

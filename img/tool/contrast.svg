@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   sodipodi:docname="contrast.svg"
+   id="svg2202"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata2206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg2202"
+     inkscape:window-maximized="0"
+     inkscape:window-y="118"
+     inkscape:window-x="3764"
+     inkscape:cy="15.946095"
+     inkscape:cx="16"
+     inkscape:zoom="32.59375"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     id="namedview2204"
+     inkscape:window-height="1024"
+     inkscape:window-width="1939"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2188">
+    <style
+       id="style2166"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2168"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2170"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2172"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2174"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2176"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2178"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2180"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2182"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2184"
+       type="text/css">.fil0 {fill:black}</style>
+    <style
+       id="style2186"
+       type="text/css">.fil0 {fill:black}</style>
+  </defs>
+  <g
+     id="g2190"
+     stroke-width=".76112"
+     fill="#fff"
+     transform="matrix(.34763 0 0 .34762 -7.3502 -7.2585)" />
+  <g
+     id="g2192"
+     stroke-width=".76112"
+     fill="#fff"
+     transform="matrix(1.3139 0 0 1.3138 -57.62 -32.987)" />
+  <style
+     id="style2194"
+     type="text/css">.st0{fill:#010101;}</style>
+  <style
+     id="style2196"
+     type="text/css">.st0{fill:none;stroke:#000000;stroke-width:80;stroke-miterlimit:10;}</style>
+  <ellipse
+     ry="14.000016"
+     rx="14.000018"
+     id="ellipse2198"
+     style="paint-order:markers stroke fill"
+     stroke-width="2"
+     stroke-linecap="square"
+     stroke-dashoffset="25.721"
+     stroke="#fff"
+     stop-color="#000000"
+     fill="none"
+     cy="16.000015"
+     cx="16.000019" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2200"
+     style="stroke-width:1;paint-order:markers stroke fill"
+     stop-color="#000000"
+     fill="#fff"
+     d="m 23.556349,8 c 4.295761,4.295761 4.29576,11.260808 0,15.556348 C 19.260586,27.852109 12.29554,27.85211 8,23.55635 Z" />
+</svg>

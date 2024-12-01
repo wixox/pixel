@@ -1,0 +1,45 @@
+{
+    "packs":[
+        {
+            "name":"basic-transparent",
+            "assets":[
+                "lines-medium.svg",
+                "lines-odd.svg",
+                "lines-often.svg",
+                "lines-spaced.svg",
+                "lines-fat.svg",
+                "lines-pair.svg",
+                "grid-one.svg",
+                "grid-scott.svg",
+                "circle-tomany.svg",
+                "circle-center.svg",
+                "circle-space.svg",
+                "dot-space.svg",
+                "dot-almost.svg",
+                "dot-alone.svg",
+                "cross-mid.svg",
+                "cross-spaced.svg",
+                "cross-rotated.svg"
+            ]
+        },
+        {
+            "name":"001",
+            "thumb":"001.jpg",
+            "assets":[
+                "001-001.svg",
+                "001-002.svg"
+
+            ]
+        },
+        {
+            "name":"002",
+            "thumb":"002.jpg",
+            "assets":[
+                "002-001.svg",
+                "002-002.svg",
+                "002-003.svg",
+                "002-004.svg"
+            ]
+        }
+    ]
+}

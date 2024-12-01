@@ -1,0 +1,134 @@
+<div id="navigator-box">
+    <div class="title">§viewOBarNav§ <span id="navigator-minimize" class="minimize"></span></div>
+    <div class="splitter"></div>
+    <div id="nav-sub">
+        <div id="zoom-info">
+            <div id="zoom-nav">
+                <canvas id="zoom-nav-back"></canvas>
+                <div id="zoom-nav-marker"></div>
+            </div>
+        </div>
+        <div id="nav-info">
+            <div>X:<span id="nav-cord-x"></span></div>
+            <div>Y:<span id="nav-cord-y"></span></div>
+            <div class="pad-10">W:<span id="nav-size-w">0</span></div>
+            <div>H:<span id="nav-size-h">0</span></div>
+        </div>
+    </div>
+    <div id="zoom-menu">
+        
+        <a id="zoom-out" tooltip="§viewOBarZoomOut§" flow="up">-</a>
+        <a id="zoom-level">100%</a>
+        <input type="range" value="50" min="0" max="100" step="1" id="zoom-slider">
+        <a id="zoom-in" tooltip="§viewOBarZoomIn§" flow="up-left">+</a>
+        <input type="text" value="100%" id="zoom-input" />
+        
+        <ul id="zoom-selector">
+            <li data="fit" title="§viewOBarFit§">§fit§</li>
+            <li data="fill" title="§viewOBarFill§">§fill§</li>
+            <li data="0.1">10%</li>
+            <li data="0.25">25%</li>
+            <li data="0.5">50%</li>
+            <li data="0.75">75%</li>
+            <li data="1" title="§viewOBarZ1X§">100%</li>
+            <li data="1.25">125%</li>
+            <li data="1.5">150%</li>
+            <li data="1.75">175%</li>
+            <li data="2">200%</li>
+            <li data="3" title="§viewOBarZ3X§">300%</li>
+            <li data="4">400%</li>
+            <li data="5">500%</li>
+            <li data="6">600%</li>
+            <li data="8">800%</li>
+            <li data="10">1000%</li>
+        </ul>
+    </div>
+</div>
+
+<div id="layer-box">
+    <div class="title">§layers§ <span id="layer-minimize" class="minimize"></span></div>
+    <div class="splitter"></div>
+    <div id="layer-box-content">
+        <div id="layer-list">
+
+        </div>
+    </div>
+    <ul id="layer-controls">
+        <li id="layer-box-move-up"><img src="/img/icon/up.svg" title="Move up"></li>
+        <li id="layer-box-add">
+            <ul>
+                <li id="layer-box-add-frame" data="frame" flow="up-right" tooltip="§frame§"><img src="/img/tool/frame.svg"></li>
+                <li id="layer-box-add-shape" data="shape" flow="up" tooltip="§shape§"><img src="/img/tool/shape.svg"></li>
+                <li id="layer-box-add-image" data="image"  flow="up" tooltip="§image§"><img src="/img/tool/image.svg"></li>
+                <li id="layer-box-add-text" data="text" flow="up" tooltip="§text§"><img src="/img/tool/text.svg"></li>
+                <li id="layer-box-add-empty" data="empty" flow="up-left" tooltip="§empty§"><img src="/img/tool/empty.svg"></li>
+            </ul>
+            <img src="/img/icon/add.svg"/>
+        </li>
+        <li id="layer-box-move-down"><img src="/img/icon/down.svg"  title="Move down"></li></ul>
+</div>
+
+<div id="history-box">
+    <div class="title">§history§ <span id="history-minimize" class="minimize"></span></div>
+    <div class="splitter"></div>
+
+    <div id="history-box-content">
+        <ol id="history-list"></ol>
+    </div>    
+</div>
+
+<!-- floating stuff -->
+
+<div id="layer-settings">
+
+    <img id="layer-settings-close" class="close" style="top:2px;right:2px;" src="/img/icon/close.svg">
+
+    <label class="pad-4">§name§</label>
+    <input type="text" id="layer-settings-name" maxlength="50" style="width:100%" autocomplete="none">
+
+    <label class="pad-10">§blendMode§</label>
+    <div class="select pad-0">
+        <select id="layer-settings-blend-mode">
+            <option value="">§blendModeNone§</option>
+            <option value="multiply">§blendModeMultiply§</option>
+            <option value="screen">§blendModeScreen§</option>
+            <option value="overlay">§blendModeOverlay§</option>
+            <option value="darken">§blendModeDarken§</option>
+            <option value="lighten">§blendModeLighten§</option>
+            <option value="color-dodge">§blendModeColorDodge§</option>
+            <option value="color-burn">§blendModeColorBurn§</option>
+            <option value="hard-light">§blendModeHardLight§</option>
+            <option value="soft-light">§blendModeSoftLight§</option>
+            <option value="difference">§blendModeDifference§</option>
+            <option value="exclusion">§blendModeExclusion§</option>
+            <option value="hue">§blendModeHue§</option>
+            <option value="saturation">§blendModeSaturation§</option>
+            <option value="color">§blendModeColor§</option>
+            <option value="luminosity">§blendModeLuminosity§</option>
+            <option value="destination-out">Alpha</option>
+            <option value="destination-out">Erase</option>
+            <option value="destination-in">Mask</option>
+        </select>
+    </div>
+
+    <div id="layer-settings-transparency" class="range-box pad-10"></div>
+
+    <div class="switch-field stretch pad-10" tooltip="§viewOBarLockUnlockLayer§" flow="down">
+        <input type="radio" id="layer-settings-locked-false" name="layer-settings-locked" value="false" /><label for="layer-settings-locked-false">§unlocked§</label>
+        <input type="radio" id="layer-settings-locked-true" name="layer-settings-locked" value="true" /><label for="layer-settings-locked-true">§locked§</label>
+    </div>
+    <div class="switch-field stretch pad-10" tooltip="§viewOBarShowHideLayer§" flow="down">
+        <input type="radio" id="layer-settings-visible-true" name="layer-settings-visible" value="true" /><label for="layer-settings-visible-true">§visible§</label>
+        <input type="radio" id="layer-settings-visible-false" name="layer-settings-visible" value="false" /><label for="layer-settings-visible-false">§hidden§</label>
+    </div>
+    
+    <ul class="icon-button-set reverse pad-20">
+        <li id="layer-settings-merge-down" tooltip="§layerMergeDown§" flow="up"><img src="/img/icon/merge-down.svg"/></li>
+        <li id="layer-settings-merge-visible" tooltip="§layerMergeVisible§" flow="up"><img src="/img/icon/merge-visible.svg"/></li>
+        <li id="layer-settings-merge-flatten" tooltip="§layerFlattenImage§" flow="up"><img src="/img/icon/merge-flatten.svg"/></li>
+    </ul>
+    <ul class="icon-button-set reverse pad-8">
+        <li id="layer-settings-duplicate" tooltip="§viewOBarDup§" flow="up"><img src="/img/icon/copy.svg"/></li>
+        <li id="layer-settings-delete" tooltip="§viewOBarDel§" flow="up"><img src="/img/icon/delete.svg"></li>
+    </ul>
+</div>

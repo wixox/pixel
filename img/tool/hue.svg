@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   sodipodi:docname="hue.svg"
+   id="svg3745"
+   viewBox="0 0 8.4667 8.4667"
+   version="1.1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata3751">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3749" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg3745"
+     inkscape:window-maximized="0"
+     inkscape:window-y="55"
+     inkscape:window-x="3372"
+     inkscape:cy="17.604144"
+     inkscape:cx="21.737785"
+     inkscape:zoom="16.296875"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     id="namedview3747"
+     inkscape:window-height="1109"
+     inkscape:window-width="1786"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <circle
+     cx="1.9843611"
+     cy="6.217711"
+     r="1.7197765"
+     style="opacity:1;fill:none;stroke:#ffffff;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.8054;paint-order:markers stroke fill;stop-opacity:1"
+     id="circle3737" />
+  <circle
+     cx="6.4822955"
+     cy="6.217711"
+     r="1.7197765"
+     style="opacity:1;fill:none;stroke:#ffffff;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.8054;paint-order:markers stroke fill;stop-opacity:1"
+     id="circle3739" />
+  <circle
+     r="1.7197765"
+     cx="4.2333283"
+     cy="2.2489455"
+     style="opacity:1;fill:none;stroke:#ffffff;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.8054;paint-order:markers stroke fill;stop-opacity:1"
+     id="circle3741" />
+</svg>

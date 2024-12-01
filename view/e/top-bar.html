@@ -1,0 +1,233 @@
+<ul id="menu" class="menu">
+    <li>
+        <a>§titleFile§</a>
+        <ul>
+            <li><a id="file-new">§titleNewImage§.. <span>Ctrl + E</span></a></li>
+            <li><a id="file-open">§titleOpenImage§.. <span>Ctrl + O</span></a></li>
+            <li><a id="file-open-url">§titleOpenURL§..</a></li>
+            <li><a id="file-search">§titleStockSearch§.. <span>Ctrl + F</span></a></li>
+            <li><a id="file-add-element">§titleBrowseElements§ ..<span>Ctrl + B</span></a></li>
+            <li class="split"></li>
+            <li><a id="file-save">§titleSave§.. <span>Ctrl + S</span></a></li>
+            <li class="more"><a id="file-export">§titleExport§</a>
+                <ul>
+                    <li><a id="export-image">§titleQuickExportImage§..</a></li>
+                    <li><a id="export-layer">§titleQuickExportLayer§..</a></li>
+                    <li class="split"></li>
+                    <li><a id="export-template">§titleExportTemplate§..</a></li>
+                </ul>
+            </li>
+            <li><a id="file-print">§titlePrint§.. <span>Ctrl + P</span></a></li>
+            <li><a id="file-close">§titleClose§ <span>Ctrl + Q</span></a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleEdit§</a>
+        <ul>
+            <li><a id="edit-undo">§titleUndo§ <span>Ctrl + Z</span></a></li>
+            <li><a id="edit-redo">§titleRedo§ <span>Ctrl + Y</span></a></li>
+            <li class="split"></li>
+            <li><a id="edit-cut">§titleCut§ <span>Ctrl + X</span></a></li>
+            <li><a id="edit-copy">§titleCopy§ <span>Ctrl + C</span></a></li>
+            <li><a class="selection disabled" id="edit-clear">§titleClear§ <span>DEL</span></a></li>
+            <li><a id="edit-paste">§titlePaste§ <span>Ctrl + V</span></a></li>
+            <li class="split"></li>
+            <li><a class="image noframe" id="edit-free-transform">§titleFreeTransform§..<span>Ctrl + R</span></a></li>
+            <li><a class="image noframe" id="edit-free-distort">§titleFreeDistort§..<span>Ctrl + K</span></a></li>
+            <li class="more"><a>§titleTransform§</a>
+                <ul>
+                    <li><a id="edit-rotate-left"><img src="/img/icon/rotate-left.svg">§titleRotateLeft§</a></li>
+                    <li><a id="edit-rotate-right"><img src="/img/icon/rotate-right.svg">§titleRotateRight§</a></li>
+                    <li><a id="edit-flip-horizontal" class="image"><img src="/img/icon/flip-horizontal.svg">§titleFlipHorizontal§</a></li>
+                    <li><a id="edit-flip-vertical" class="image"><img src="/img/icon/flip-vertical.svg">§titleFlipVertical§</a></li>
+                </ul>
+            </li>
+            <li class="split"></li>
+            <li><a class="image noframe" id="edit-stroke">§titleStroke§..</a></li>
+            <li><a class="image" id="edit-fill">§titleFill§..</a></li>
+            <li class="split"></li>
+            <li><a id="edit-preferences">§titlePreferences§..</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleImage§</a>
+        <ul>
+            <li><a id="image-image-size">§titleImageSize§..</a></li>
+            <li><a id="image-canvas-size">§titleCanvasSize§..</a></li>
+            <li class="more"><a>§titleImageRotation§</a>
+                <ul>
+                    <li><a id="image-rotate-left"><img src="/img/icon/rotate-left.svg">§titleRotateLeft§</a></li>
+                    <li><a id="image-rotate-right"><img src="/img/icon/rotate-right.svg">§titleRotateRight§</a></li>
+                    <li><a id="image-flip-horizontal"><img src="/img/icon/flip-horizontal.svg">§titleFlipHorizontal§</a></li>
+                    <li><a id="image-flip-vertical"><img src="/img/icon/flip-vertical.svg">§titleFlipVertical§</a></li>
+                </ul>
+            </li>
+            <li class="split"></li>
+            <li><a class="selection disabled" id="image-crop">§titleCrop§</a></li>
+            <li><a id="image-trim">§titleTrim§</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleLayer§</a>
+        <ul>
+            <li><a id="layer-new">§titleNewLayer§</a></li>
+            <li><a id="layer-duplicate">§titleDuplicateLayer§</a></li>
+            <li><a id="layer-open">§titleImageLayer§..</a></li>
+            <li><a id="layer-add-element">§titleElementLayer§..</a></li>
+            <li><a id="layer-url">§titleURLLayer§..</a></li>
+            <li><a id="layer-delete">§titleDeleteLayer§ <span>DEL</span></a></li>
+            <li class="split"></li>
+            <li><a id="layer-rasterize">§titleRasterizeLayer§</a></li>
+            <li class="split"></li>
+            <li><a id="layer-merge-down">§layerMergeDown§ <span>Ctrl + 6</span></a></li>
+            <li><a id="layer-merge-visible">§layerMergeVisible§ <span>Ctrl + 7</span></a></li>
+            <li><a id="layer-merge-flatten">§layerFlattenImage§ <span>Ctrl + 8</span></a></li>
+            <li class="split"></li>
+            <li><a id="layer-move-up">§titleLayerUp§ <span>Ctrl + 4</span></a></li>
+            <li><a id="layer-move-down">§titleLayerDown§ <span>Ctrl + 5</span></a></li>
+            <li class="split"></li>
+            <li><a class="image noframe" id="layer-ai-mask">§titleLayerAutoMask§</a></li>
+            <li><a class="image noframe" id="layer-add-mask">§titleLayerAddMask§</a></li>
+            <li><a class="mask disabled" id="layer-apply-mask">§titleLayerApplyMask§</a></li>
+            <li><a class="mask disabled" id="layer-delete-mask">§titleLayerDeleteMask§</a></li>
+            <li class="more"><a>§titleLayerMoreMask§</a>
+                <ul>
+                    <li><a class="mask disabled" id="layer-invert-mask">§titleLayerInvertMask§</a></li>
+                    <li><a class="mask disabled" id="layer-extract-mask">§titleLayerExtractMask§</a></li>
+                    <li><a class="mask disabled" id="layer-convert-mask">§titleLayerConvertMask§</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleSelect§</a>
+        <ul>
+            <li><a id="edit-selection-all">§titleSelectAll§ <span>Ctrl + A</span></a></li>
+            <li><a id="edit-selection-pixels">§titleSelectPixels§ </a></li>
+            <li><a class="selection disabled" id="edit-selection-deselect">§titleSelectDeselect§ <span>Ctrl + D</span></a></li>
+            <li><a class="selection disabled" id="edit-selection-invert">§titleSelectInvert§ <span>Ctrl + I</span></a></li>
+            <li><a class="selection disabled" id="edit-selection-convert">§titleSelectConvert§ </a></li>
+            <li class="split"></li>
+            <li><a class="selection disabled" id="edit-selection-save">§titleSelectSave§</a></li>
+            <li><a class="disabled" id="edit-selection-restore">§titleSelectRestore§</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleAdjustment§</a>
+        <ul>
+            <li><a class="image" id="adjust-auto">§titleAutoAdjust§</a></li>
+            <li><a class="image" id="adjust-pop">§titleAutoPop§</a></li>
+            <li><a class="image" id="adjust-bw">§titleAutoBW§</a></li>
+            <li class="split"></li>
+            <li><a class="image" id="adjust-brightness-contrast">§titleBrightnessContrast§..</a></li>
+            <li><a class="image" id="adjust-temperature-tint">§titleTemperatureTint§..</a></li>
+            <li><a class="image" id="adjust-hue-saturation">§titleHueSaturation§.. <span>Ctrl + U</span></a></li>
+            <li><a class="image" id="adjust-vibrance">§titleVibrance§..</a></li>
+            <li><a class="image" id="adjust-balance">§titleColorBalance§..</a></li>
+            <li><a class="image" id="adjust-lookup">§titleColorLookup§..</a></li>
+            <li class="split"></li>
+            <li><a class="image" id="adjust-highlights-shadows">§titleHighlightsShadows§..</a></li>
+            <li><a class="image" id="adjust-exposure">§titleExposure§..</a></li>
+            <li class="split"></li>
+            <li><a class="image" id="adjust-curves">§titleCurves§.. <span>Ctrl + M</span></a></li>
+            <li><a class="image" id="adjust-levels">§titleLevels§.. <span>Ctrl + L</span></a></li>
+            <li class="split"></li>
+            <li><a class="image" id="adjust-threshold">§titleThreshold§..</a></li>
+            <li><a class="image" id="adjust-posterize">§titlePosterize§..</a></li>
+            <li><a class="image" id="adjust-desaturate">§titleDesaturate§</a></li>
+            <li><a class="image" id="adjust-invert">§titleInvert§</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleFilter§</a>
+        <ul>
+            <li><a class="image" id="filter-effect">§titleEffectLibrary§..</a></li>
+            <li class="split"></li>
+            <li class="more"><a>§titleDetails§</a>
+                <ul>
+                    <li><a class="image" id="filter-sharpen">§titleSharpen§..</a></li>
+                    <li><a class="image" id="filter-clarity">§titleClarity§..</a></li>
+                    <li><a class="image" id="filter-blur">§titleBlur§..</a></li>
+                    <li><a class="image" id="filter-gaussian-blur">§titleGaussianBlur§..</a></li>
+                    <li><a class="image" id="filter-zoom-blur">§titleZoomBlur§..</a></li>
+                    <li><a class="image" id="filter-smooth">§titleSmooth§..</a></li>
+                    <li><a class="image" id="filter-grain">§titleGrain§..</a></li>
+                    <li><a class="image" id="filter-noise">§titleNoise§..</a></li>
+                    <li><a class="image" id="filter-denoise">§titleDenoise§..</a></li>
+                </ul>
+            </li>
+            <li class="split"></li>
+            <li class="more"><a>§titleGlitch§</a>
+                <ul>
+                    <li><a class="image" id="filter-fringe">§titleFringe§..</a></li>
+                    <li><a class="image" id="filter-rgb-split">§titleRGBSplit§..</a></li>
+                    <li><a class="image" id="filter-scanlines">§titleScanlines§..</a></li>
+                    <li><a class="image" id="filter-interference">§titleInterference§..</a></li>
+                    <li><a class="image" id="filter-slice">§titleSlice§..</a></li>
+                </ul>
+            </li>
+            <li class="split"></li>
+            <li><a class="image" id="filter-vignette">§titleVignette§..</a></li>
+            <li><a class="image" id="filter-bloom">§titleBloom§..</a></li>
+            <li><a class="image" id="filter-glamour">§titleGlamour§..</a></li>
+            <li><a class="image" id="filter-dehaze">§titleDehaze§..</a></li>
+            <li class="split"></li>
+            <li><a class="image noframe" id="filter-inner-glow">§titleInnerGlow§..</a></li>
+            <li><a class="image noframe" id="filter-outer-glow">§titleOuterGlow§..</a></li>
+            <li><a class="image noframe" id="filter-outline">§titleOutline§..</a></li>
+            <!--<li><a class="image" id="filter-inner-shadow">§titleInnerShadow§</a></li>-->
+            <li><a class="image noframe" id="filter-drop-shadow">§titleDropShadow§..</a></li>
+            <li><a class="image noframe" id="filter-bevel">§titleBevel§..</a></li>
+            <li class="split"></li>
+            <li><a class="image" id="filter-sobel">§titleSobel§..</a></li>
+            <li><a class="image" id="filter-pixelate">§titlePixelate§..</a></li>
+            <li><a class="image" id="filter-mosaic">§titleMosaic§..</a></li>
+            <li><a class="image" id="filter-halftone">§titleHalftone§..</a></li>
+            <li class="split"></li>
+            <li><a class="image" id="filter-polarcoordinates">§titlePolarCoordinates§..</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleView§</a>
+        <ul>
+            <li><a id="view-zoom-in">§titleZoomIn§ <span>Ctrl + +</span></a></li>
+            <li><a id="view-zoom-out">§titleZoomOut§ <span>Ctrl + -</span></a></li>
+            <li class="split"></li>
+            <li><a id="view-zoom-fit">§titleFitScreen§ <span>Ctrl + 0</span></a></li>
+            <li><a id="view-zoom-fill">§titleFillScreen§ <span>Ctrl + 2</span></a></li>
+            <li class="split"></li>
+            <li><a id="view-zoom-1x">100% <span>Ctrl + 1</span></a></li>
+            <li><a id="view-zoom-2x">200%</a></li>
+            <li><a id="view-zoom-3x">300% <span>Ctrl + 3</span></a></li>
+            <li class="split"></li>
+            <li><a id="view-full-screen">§titleToggleFullScreen§ <span>F11</span></a></li>
+            <li><a id="view-light-mode">§titleToggleLightDarkMode§</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>§titleHelp§</a>
+        <ul>
+            <!--<li><a id="help-help">Help</a></li>
+            <li><a id="help-tutorials">Tutorials</a></li>-->
+            <li><a id="help-shortcuts">§titleKeyboardShortcuts§..</a></li>
+            <li class="split"></li>
+            <li><a id="help-reddit" href="https://m.me/wixo.wx" target="_empty" rel="noopener">Get HELP</a></li>
+            <li><a id="help-youtube" href="#" target="_empty" rel="noopener">Our Youtube / Tutorials..</a></li>
+            <li><a id="help-instagram" href="https://www.instagram.com/wixo.wx" target="_empty" rel="noopener">Our Instagram..</a></li>
+            <li><a id="help-facebok" href="https://www.facebook.com/wixo.wx" target="_empty" rel="noopener">Our Facebook..</a></li>
+            <li class="split"></li>
+            <li><a id="help-color-match" href="https://designs.ai/colors/" target="_empty" rel="noopener">Color Matcher</a></li>
+            <li><a id="help-font-match" href="https://designs.ai/fonts/" target="_empty" rel="noopener">Font Matcher</a></li>
+        </ul>
+    </li>
+    <li class="title-bar-drag"></li>
+</ul>
+
+<div class="option-bar">
+    <a id="toggle-home" tooltip="toggle home" flow="right"><img src="/img/icon/home.svg"/></a>
+    <div id="option-content" class="option-content"></div>
+</div>
+
+<div id="toggle-option" flow="left">
+    <img src="/img/icon/drawer.svg"/>
+</div>

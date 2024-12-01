@@ -1,0 +1,28 @@
+{
+    "templates":[
+        { "id":"7f3480d0-f151-4bb5-b363-dad4734522e3", "title":"Retro Summer", "keywords":"Summer trend retro tall instagram", "ratio":"4:5", "premium":false },
+        { "id":"7f3480d0-f151-4bb5-b363-dad4444522e3", "title":"Retro Summer", "keywords":"Summer trend retro tall instagram", "ratio":"4:5", "premium":false },
+        { "id":"6194ed8e-3d5a-44fc-b569-89b2cf964f88", "title":"Orange sale", "keywords":"Sale trend dots sale ornage instagram post", "ratio":"1:1", "premium":false },
+        { "id":"53875d28-ba3f-4f4c-98bf-961d2f136959", "title":"Mega sale", "keywords":"instagram template sales ", "ratio":"1:1", "premium":false },
+        { "id":"b65c111c-bbd3-430d-a5f5-9c4d96568d63", "title":"Adventure carpol", "keywords":"adventure car hat", "ratio":"1:1", "premium":false },
+        { "id":"b04928a8-e209-4b36-b8c6-dc2d454ce541", "title":"Music poster", "keywords":"Yellow purple music trendy bold", "ratio":"3:4", "premium":false }, 
+        { "id":"85f7293a-de02-4a2d-8004-8be4491f4155", "title":"Post Sales", "keywords":"Sales red model man instagram tall", "ratio":"4:5", "premium":false },
+        { "id":"88d1f26c-b7e5-4366-9243-c872ad861f49", "title":"Pink retro", "keywords":"Vintage pink wide", "ratio":"16:9", "premium":false },
+        { "id":"009ba9e0-b2f4-4726-a41b-5ba715527ed7", "title":"Bike Sales", "keywords":"Sales blu red lines tall instagram", "ratio":"4:5", "premium":false },
+        { "id":"c40b94eb-eb58-4c53-b38b-0f6318c63ec0", "title":"Fly Again", "keywords":"Fly travel plane sky instagram", "ratio":"1:1", "premium":false },
+        { "id":"ce5688cb-1b58-4ca0-b383-28c33838ab23", "title":"Fresh trends", "keywords":"Trend fresh discount yellow orange dots", "ratio":"9:16", "premium":false },
+        { "id":"ebcb29a6-2ee2-44cd-957f-67bb6bcacb22", "title":"Retro trends", "keywords":"hot new item yellow green multi instagram", "ratio":"1:1", "premium":false },
+        { "id":"4c9ba859-6907-4700-bada-09afdbafbbfd", "title":"Special offer", "keywords":"Green brown sale instagram post", "ratio":"1:1", "premium":false },
+        { "id":"81d90d18-8904-441a-9ea3-08626194f1a5", "title":"New grunge", "keywords":"Yellow grunge sale blue red man", "ratio":"1:1", "premium":false },
+        { "id":"b8474cb1-38ea-4a03-b750-4f0ec453903d", "title":"Coffee bar", "keywords":"coffee cup bar brown bean", "ratio":"1:1", "premium":false },
+        { "id":"9cb80836-49fd-459b-8a32-c8f1d275542f", "title":"Learn to", "keywords":"story orange dots manage", "ratio":"9:16", "premium":false },
+        { "id":"dde1a0c3-6481-454b-8e89-f8b2eaa22371", "title":"Dance beat", "keywords":"dark dance club envent square instagram", "ratio":"1:1", "premium":false },
+        { "id":"30927827-d55e-4014-8242-3493e31f8c36", "title":"Soon", "keywords":"orange dots cross fashion instagram", "ratio":"1:1", "premium":false },
+        { "id":"d8658563-1e5a-4cc3-b563-9c1ec659297b", "title":"Pink pig", "keywords":"money work home pig pink", "ratio":"1:1", "premium":false },
+        { "id":"21107298-379d-4183-8b8c-eb167741dc42", "title":"Neon Art", "keywords":"art neon artist instagram ", "ratio":"1:1", "premium":false },
+        { "id":"72981c7f-248b-4039-9c60-2579e534a4d9", "title":"Digital Marketing", "keywords":"story digital marketing lines green", "ratio":"9:16", "premium":false },
+        { "id":"29db7eb8-1358-4ed7-a3a7-14e9a22b457a", "title":"Limit", "keywords":"gym girl train green lime neon", "ratio":"9:16", "premium":false }
+       
+        
+    ]
+}

@@ -1,0 +1,11 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <g fill="none" stroke="#fff">
+  <path transform="matrix(1.0034 0 0 .5262 .095073 -.33055)" d="m7.4358 6.2831-5.6369-0.090002 2.8964-4.8367 1.3703 2.4634z" stop-color="#000000" stroke-dashoffset="6.8054" stroke-linecap="round" stroke-width=".72827" style="paint-order:markers stroke fill"/>
+  <path transform="matrix(1.0034 0 0 -.5262 -1.1663 8.7947)" d="m7.4358 6.2831-5.6369-0.090002 2.8964-4.8367 1.3703 2.4634z" stop-color="#000000" stroke-dashoffset="6.8054" stroke-linecap="round" stroke-width=".72827" style="paint-order:markers stroke fill"/>
+  <path d="m0.26458 4.2334h7.9375" stroke-dasharray="0.52916872,0.52916872" stroke-width=".52917"/>
+ </g>
+</svg>

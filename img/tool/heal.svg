@@ -1,0 +1,33 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <rect transform="matrix(.7071 -.70711 .7071 .70711 0 0)" x="-17.684" y="16.749" width="35.367" height="11.757" rx="3.9982" ry="3.9982" fill="none" stroke="#fff" stroke-dashoffset="6.8054" stroke-linecap="round" stroke-width="2" style="paint-order:markers stroke fill"/>
+ <style type="text/css">.st0{fill:#010101;}</style>
+ <g transform="matrix(.9371 .030633 .03768 .93737 .10559 .63097)" stroke-width="1.0677">
+  <g transform="matrix(1.2959 0 0 1.2946 .45307 .46919)" fill="#fff" stroke-width=".82429">
+   <path d="m15.094 13.142c0.386 3e-3 0.71-0.314 0.713-0.699 4e-3 -0.405-0.306-0.721-0.707-0.722-0.404-1e-3 -0.715 0.311-0.713 0.715 4e-3 0.39 0.316 0.702 0.707 0.706z"/>
+   <path d="m13.421 11.438c0.393-5e-3 0.693-0.315 0.691-0.714-2e-3 -0.395-0.31-0.703-0.702-0.704-0.397-1e-3 -0.722 0.322-0.719 0.715 3e-3 0.394 0.329 0.708 0.73 0.703z"/>
+   <path d="m11.303 10.447c-0.404-4e-3 -0.722 0.307-0.722 0.706 0 0.395 0.329 0.722 0.72 0.715 0.39-7e-3 0.699-0.323 0.699-0.715 1e-3 -0.398-0.3-0.702-0.697-0.706z"/>
+   <path d="m9.185 10.86c-0.396-3e-3 -0.713 0.317-0.712 0.719 2e-3 0.398 0.304 0.7 0.701 0.702 0.404 1e-3 0.719-0.312 0.718-0.711-1e-3 -0.384-0.323-0.707-0.707-0.71z"/>
+   <path d="m12.56 14.258c-0.394 1e-3 -0.705 0.307-0.71 0.699-5e-3 0.395 0.317 0.722 0.712 0.723 0.385 1e-3 0.705-0.318 0.707-0.706 2e-3 -0.407-0.305-0.717-0.709-0.716z"/>
+   <path d="m11.01 9.029c0 0.4 0.299 0.705 0.695 0.707 0.404 3e-3 0.724-0.308 0.726-0.705 1e-3 -0.38-0.321-0.708-0.704-0.715-0.396-8e-3 -0.716 0.311-0.717 0.713z"/>
+   <path d="m12.979 13.563c0.394 5e-3 0.723-0.322 0.72-0.715-3e-3 -0.384-0.327-0.709-0.708-0.711-0.399-1e-3 -0.712 0.314-0.713 0.718-1e-3 0.392 0.307 0.703 0.701 0.708z"/>
+   <path d="m10.866 12.562c-0.386 2e-3 -0.705 0.319-0.711 0.706-6e-3 0.393 0.318 0.714 0.718 0.713 0.397-1e-3 0.702-0.304 0.705-0.7 5e-3 -0.399-0.315-0.722-0.712-0.719z"/>
+  </g>
+ </g>
+ <path d="m7.5876 16.158 8.313 8.3131" fill="none" stroke="#fff" stroke-width="2"/>
+ <path d="m15.995 7.9394 8.313 8.3131" fill="none" stroke="#fff" stroke-width="2"/>
+</svg>

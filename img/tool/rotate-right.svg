@@ -1,0 +1,15 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <path d="m1.3758 1.5757c1.3188-1.5599 3.6589-1.7559 5.2188-0.43713 0.39586 0.33467 0.7032 0.73563 0.92106 1.1725l-0.57679 0.048312c-0.17709-0.3004-0.40413-0.57851-0.68591-0.81673-1.3415-1.1341-3.3389-0.96682-4.473 0.37467-0.23823 0.28178-0.41584 0.59378-0.54049 0.91946l-0.57679 0.048312c0.14215-0.46705 0.3785-0.91355 0.71317-1.3094z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path transform="matrix(.69829 -.24343 -.16301 -.46761 -.42594 7.9662)" d="m14.222 6.3642-4.2935 0.043533 2.109-3.74 1.0922 1.8482z" fill="#fff" stop-color="#000000" style="paint-order:markers stroke fill"/>
+ <g transform="matrix(-1.0606 0 0 .94956 .65124 1.2561)">
+  <g transform="matrix(.34763 0 0 .34762 -7.3502 -7.2585)" fill="#fff" stroke-width=".75842"></g>
+  <rect x="-4.6106" y="3.1204" width="4.961" height="3.931" rx=".81898" ry=".91477" fill="none" stop-color="#000000" stroke="#fff" stroke-dashoffset="25.721" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52729" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

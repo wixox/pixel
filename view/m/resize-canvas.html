@@ -1,0 +1,38 @@
+
+<div id="canvas-resize-content" class="content row">
+
+    <label class="split">Width <input type="number" id="canvas-resize-width"/></label>
+    <label class="split pad-6">Height <input type="number" id="canvas-resize-height"/></label>
+
+    <input type="checkbox" id="canvas-resize-relative" />
+    <label class="switch pad-16" for="canvas-resize-relative">Relative change<span></span></label>
+
+    <label class="split pad-16">Anchor Position
+        <div id="anchor-grid" class="anchor-grid">
+            <div class="row">
+                <div data="TL" class="box"><div class="inner"></div></div>
+                <div data="TC" class="box"><div class="inner"></div></div>
+                <div data="TR" class="box"><div class="inner"></div></div>
+            </div>
+            <div class="row">
+                <div data="CL" class="box"><div class="inner"></div></div>
+                <div data="CC" class="box selected"><div class="inner"></div></div>
+                <div data="CR" class="box"><div class="inner"></div></div>
+            </div>
+            <div class="row">
+                <div data="BL" class="box"><div class="inner"></div></div>
+                <div data="BC" class="box"><div class="inner"></div></div>
+                <div data="BR" class="box"><div class="inner"></div></div>
+            </div>
+        </div>
+    </label>
+
+    <small class="pad-20" style="display: block;margin-bottom:10px;">When changing size any active crop tool will be reset, some cropping of layers may occur if new canvas size is smaller.</small>
+
+</div>
+
+<div class="bottom">
+    <div id="canvas-resize-cancel" class="icon"><img src="/img/line/cancel.svg"></div>
+    <div id="canvas-resize-title" class="title">Resize Canvas</div>
+    <div id="canvas-resize-apply" class="icon"><img src="/img/line/apply.svg"></div>
+</div>

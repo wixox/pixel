@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="cancel.svg"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   id="svg1032"
+   version="1.1"
+   viewBox="0 0 8.4666659 8.4666659"
+   height="32"
+   width="32">
+  <defs
+     id="defs1026" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="-7"
+     inkscape:window-height="1368"
+     inkscape:window-width="3136"
+     units="px"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="9.8581962"
+     inkscape:cx="0.52050318"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1029">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="stroke-width:8.9802"
+       transform="matrix(0.02946297,0,0,0.02946297,-0.00265167,-60.320725)"
+       id="g1771">
+      <g
+         style="stroke-width:8.9802"
+         id="g1752">
+        <path
+           style="stroke-width:8.9802"
+           inkscape:connector-curvature="0"
+           d="m 256,43.5 c -6.6,0 -12,5.4 -12,12 v 251 l -45.5,-41.1 c -4.9,-4.4 -12.5,-4.1 -16.9,0.9 -4.4,4.9 -4.1,12.5 0.9,16.9 l 65.5,59.2 c 2.3,2.1 5.2,3.1 8,3.1 2.9,0 5.8,-1 8,-3.1 l 65.5,-59.2 c 4.9,-4.4 5.3,-12 0.9,-16.9 -4.4,-4.9 -12,-5.3 -16.9,-0.9 L 268,306.5 v -251 c 0,-6.6 -5.4,-12 -12,-12 z"
+           id="path1748" />
+        <path
+           style="stroke-width:8.9802"
+           inkscape:connector-curvature="0"
+           d="m 113.3,468 h 285.5 c 27.5,0 50.3,-21.9 50.3,-49.4 V 181.9 c 0,-27.5 -22.8,-49.9 -50.3,-49.9 h -63.7 c -6.6,0 -12,5.4 -12,12 0,6.6 5.4,12 12,12 h 63.7 c 14.3,0 26.3,11.6 26.3,25.9 v 236.7 c 0,14.3 -12,25.4 -26.3,25.4 H 113.3 C 99,444 87,432.9 87,418.6 V 181.9 C 87,167.6 99,156 113.3,156 H 177 c 6.6,0 12,-5.4 12,-12 0,-6.6 -5.4,-12 -12,-12 H 113.3 C 85.8,132 63,154.4 63,181.9 v 236.7 c 0,27.5 22.8,49.4 50.3,49.4 z"
+           id="path1750" />
+      </g>
+      <text
+         style="stroke-width:8.9802"
+         x="0"
+         y="527"
+         fill="#000000"
+         font-size="5px"
+         font-weight="bold"
+         font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+         id="text1754">Created by prakruti</text>
+      <text
+         style="stroke-width:8.9802"
+         x="0"
+         y="532"
+         fill="#000000"
+         font-size="5px"
+         font-weight="bold"
+         font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+         id="text1756">from the Noun Project</text>
+    </g>
+    <g
+       transform="rotate(90,4.2522019,4.241094)"
+       style="opacity:1"
+       id="g4702">
+      <path
+         sodipodi:nodetypes="ccccccccsccccccccccccccsccccc"
+         inkscape:connector-curvature="0"
+         d="M 1.6825065,1.2395023 C 1.5818299,1.2454783 1.4684695,1.2980522 1.382181,1.3843491 1.2958922,1.470646 1.2453845,1.5815748 1.2394729,1.6820306 1.2335609,1.7824864 1.25387,1.8802891 1.382181,2.0084685 L 3.2160289,3.841928 c 0.213694,0.2119767 0.213694,0.5708349 0,0.7828115 L 1.3846363,6.4584346 C 1.2564944,6.586748 1.2338168,6.6836362 1.2397985,6.78434 c 0.00598,0.1007034 0.058545,0.2135106 0.1448378,0.2998116 0.086293,0.086301 0.1977779,0.1368057 0.2981957,0.1427168 0.1004182,0.00591 0.1977424,-0.014403 0.3258855,-0.1427168 L 3.8417074,5.250989 c 0.2119462,-0.2137388 0.5708173,-0.2137388 0.7827635,0 L 6.494822,7.12098 C 6.6231411,7.2491819 6.7221681,7.2717966 6.8228372,7.2658269 6.9235057,7.2598603 7.0347477,7.2072729 7.1210329,7.12098 7.2073185,7.0346871 7.2599584,6.9237711 7.2658708,6.8232985 7.2717854,6.7228259 7.2493519,6.6255953 7.1210329,6.4973931 L 5.248552,4.6247395 c -0.2136942,-0.2119766 -0.2136942,-0.5708348 0,-0.7828115 L 7.1209099,1.9715273 C 7.249111,1.8431929 7.2717148,1.7441765 7.2657478,1.6434919 7.2597809,1.5428072 7.2071935,1.4321019 7.1209099,1.3458104 7.0346266,1.2595188 6.9210456,1.2068764 6.8205841,1.2009636 6.7201229,1.1950508 6.6229,1.2153459 6.494699,1.3436803 L 4.6244709,3.216211 c -0.2119462,0.2137388 -0.5708173,0.2137388 -0.7827635,0 L 2.008392,1.3843491 C 1.8800809,1.2561697 1.7831831,1.2335267 1.6825065,1.2395023 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         id="path4704" />
+    </g>
+  </g>
+</svg>

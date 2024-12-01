@@ -1,0 +1,25 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <style type="text/css">.st0{fill:#010101;}</style>
+ <style type="text/css">.st0{fill:none;stroke:#000000;stroke-width:80;stroke-miterlimit:10;}</style>
+ <path d="m28.531 12.398 2.9383-0.60523 0.40349 1.9589-2.9383 0.60523z" fill="#fff" stop-color="#000000" style="font-variation-settings:normal;paint-order:markers stroke fill"/>
+ <path transform="matrix(.95778 -.037738 .03772 .95825 .27742 .83248)" d="m30.115 23.297-10.963-1.933-5.6221 9.6076-1.5492-11.023-10.875-2.378 10.005-4.8798-1.0988-11.077 7.7327 8.0075 10.196-4.4681-5.226 9.8287z" fill="none" stroke="#fff" stroke-dashoffset="6.8054" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.086" style="paint-order:markers stroke fill"/>
+ <g fill="#fff">
+  <path d="m21.196 0.83427-0.79346 2.8932-1.9288-0.52898 0.79346-2.8932z" stop-color="#000000" style="font-variation-settings:normal;paint-order:markers stroke fill"/>
+  <path d="m7.5147 25.899-2.1213 2.1213-1.4142-1.4142 2.1213-2.1213z" stop-color="#000000" style="font-variation-settings:normal;paint-order:markers stroke fill"/>
+  <path d="m3.4335 6.0459 2.4632 1.7124-1.1416 1.6422-2.4632-1.7124z" stop-color="#000000" style="font-variation-settings:normal;paint-order:markers stroke fill"/>
+  <path d="m24.059 26.249 1.668 2.4935-1.6623 1.112-1.668-2.4935z" stop-color="#000000" style="font-variation-settings:normal;paint-order:markers stroke fill"/>
+ </g>
+</svg>

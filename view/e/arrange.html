@@ -1,0 +1,60 @@
+<div class="option-icon"><img src="/img/tool/thick/arrange.svg"></div>
+
+<div id="arrange-settings">
+
+    <div id="arrange-apect-holder">
+        <label class="tab-10">§aspect§:</label>
+        <div class="switch-field tab-5" flow="down">
+            <input type="radio" id="arrange-aspect-fixed" name="arrange-aspect" value="fixed" checked /><label for="arrange-aspect-fixed">§fixed§</label>
+            <input type="radio" id="arrange-aspect-free" name="arrange-aspect" value="free" /><label for="arrange-aspect-free">§free§</label>
+        </div>
+    </div>
+
+    <label class="tab-20">§pos§:</label>
+    <div class="input-label tab-5"><span>X</span><input type="number" id="arrange-left"></div>
+    <div class="input-label tab-10"><span>Y</span><input type="number" id="arrange-top"></div>
+
+    <label class="tab-20">§size§:</label>
+    <div class="input-label tab-5"><span>W</span><input type="number" id="arrange-width"></div>
+    <div id="arrange-aspect-icon" style="cursor:pointer"><img src="/img/icon/locked.svg" id="arrange-size-lock" class="tiny-icon"><img src="/img/icon/x.svg" id="arrange-size-vs" class="tiny-icon"></div>
+    <div class="input-label"><span>H</span><input type="number" class="tab-0" id="arrange-height"></div>
+
+    <ul id="arrange-rotate" class="icon-button-set tab-20">
+        <li id="arrange-rotate-left" tooltip="§rotateLeft§" flow="down"><img src="/img/icon/rotate-left.svg"></li>
+        <li id="arrange-rotate-right" tooltip="§rotateRight§" flow="down"><img src="/img/icon/rotate-right.svg"></li>
+        <li id="arrange-flip-horizontal" tooltip="§flipHorizontal§" flow="down"><img src="/img/icon/flip-horizontal.svg"></li>
+        <li id="arrange-flip-vertical" tooltip="§flipVertical§" flow="down"><img src="/img/icon/flip-vertical.svg"></li>
+    </ul>
+ 
+    <ul class="icon-button-set tab-20">
+        <li id="arrange-duplicate" tooltip="§duplicate§" flow="down"><img src="/img/icon/copy.svg"/></li>
+        <li id="arrange-delete"  tooltip="§delete§" flow="down"><img src="/img/icon/delete.svg"></li>
+    </ul>
+    <div class="tab-20" tooltip="§titleToolSettings§" flow="down">
+        <div id="arrange-tool-settings" class="icon-drop"><img src="/img/icon/settings.svg"/></div>    
+    </div>
+</div>
+
+<div id="arrange-selection" style="display: none;">
+
+    <a class="button outline tab-10" id="arrange-selection-transform">§transform§</a>
+    <a class="button outline tab-10" id="arrange-selection-distort">§distort§</a>
+
+    <div class="tab-20">§viewArrangeSelection§</div>
+</div>
+
+<div id="arrange-selection-locked" style="display: none;">
+    <a class="button outline tab-10" id="arrange-rasterize" tooltip="Convert text/element to image" flow="down">§rasterize§</a>
+    <div class="tab-20">§viewArrangeActiveSelection§</div>
+</div>
+
+<div id="arrange-layer-locked" style="display: none;">
+    <a class="button outline tab-10" id="arrange-convert">§unlock§</a>
+    <a class="button outline tab-10" id="arrange-duplicate-button">§duplicate§</a>
+
+    <div class="tab-20">§viewArrangeLayerLocked§</div>
+</div>
+
+<div id="arrange-no-layer" style="display: none;">
+    <div class="tab-10">§viewArrangeNoLayer§</div>
+</div>
